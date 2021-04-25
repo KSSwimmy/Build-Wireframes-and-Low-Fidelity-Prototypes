@@ -178,3 +178,14 @@ Four elements of a storyboard
 
 ---
 
+### Understand the two types of storyboards 
+
+**Big picture storyboards** think about how people will use the product throughout their day and why that product will be useful. This helps you understand the entire user experience, including the different challenges, potential pain points, and types of interactions the user will encounter.
+
+ In a **close-up storyboard**, the sketches in each panel focus on the product instead of on the user experiencing that product. While big-picture storyboards focus on the how and the why, close-up storyboards focus on the what. 
+
+ a close-up storyboard is more useful after your initial design directions have been explored. Since a close-up storyboard focuses on the details within your product, like screens of an app, this type of storyboard can help you think through practical ideas about improving the product. 
+
+ ---
+ 
+
