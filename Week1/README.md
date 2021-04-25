@@ -269,3 +269,51 @@ To create a close-up storyboard, steps 1-4 are the same as the big picture story
 - Finally, in the **sixth panel**, the user receives a confirmation that their message has been sent and a description of the next steps to expect. The text below the confirmation might say something like, “Your message to this musician has been sent.” There will also be a button linking back to the user’s inbox and one that leads them back to the search page they just came from. 
 
 ![](week1images/9.png)
+
+---
+
+### Introduction to wireframes
+
+##### Fidelity
+In UX, fidelity means how closely a design matches the look-and-feel of the final product.
+
+##### Low Fidelity
+- If a design is low fidelity, that means it has a lower amount of complexity 
+- Less refined or polished.
+- lo-fi for short
+
+UX designers use low-fidelity designs when we want to get ideas out quickly and leave room for exploration.
+
+#####High Fidelity 
+
+- Closely matches the look and feel of the final product 
+- More refined or polished 
+- Called "hi-fi" for short 
+
+UX designers use high-fidelity designs when we want to test a design that looks like a real product and get more specific feedback from users.
+
+##### Wireframe
+
+A wireframe is a basic outline of a digital experience, like an app or a website.
+
+Try using this as your guiding question when creating wireframes: **How do I organize information on the page in a way that makes sense for users?** 
+
+Second, wireframes highlight the intended function of the product.
+
+#### Purposes of wireframes 
+
+- Establish the basic structure of a page
+- Highlight the intended function of the product 
+- Save time and resources
+
+---
+
+### Start Drawing Wireframes 
+
+**Industry standards** are common ways to indicate page elements. In the case of wireframes, there are few industry standards you should be aware of. 
+
+- The first is text, which should be represented by horizontal lines. 
+
+- Second is images, photos, illustrations, and icons, which are represented by a circle and an X overlapping each circle. 
+
+- Third, calls to action are often represented by rectangles or circles. A good example of a call to action is a submit button on a form, or the circle to compose a new email in our example. 
