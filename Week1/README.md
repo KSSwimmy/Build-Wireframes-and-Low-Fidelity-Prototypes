@@ -155,7 +155,7 @@ Designing with knowledge of your user’s needs will make you a better designer 
 ![](week1images/7.png)
 
 
-The exemplar user flow provides:
+#### The exemplar user flow provides:
 
 - A clear and easy flow for users to get from the entry point of opening the app, to task completion of an order confirmation. 
 - Clearly labeled steps that are each represented by the appropriate shape.
@@ -165,4 +165,16 @@ Compare this exemplar to the user flow diagram you created in the activity. What
 
 ---
 
+### Introduction to storyboarding user flows
+
+In UX, a storyboard is a series of panels or frames that visually describe and explore a user's experience with a product.
+
+Four elements of a storyboard 
+
+- Character: The user in your story 
+- Scene: Helps us imagine the user's environment 
+- Plot: The benefit of solution of the design  
+- Narrative: The user's need or problem and how the design will solve the problem 
+
+---
 
