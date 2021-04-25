@@ -150,3 +150,19 @@ One more thing: You might be wondering how user flows compare to the user journe
 
 Designing with knowledge of your user’s needs will make you a better designer and will keep users engaged in your product. Creating a user flow is a solid step. As a UX designer, one of your best tools is being able to outline the path that users will take to complete a task in your product. Now, it’s time to show what you know and create a user flow for your own app design. Good luck! 
 
+---
+
+![](week1images/7.png)
+
+
+The exemplar user flow provides:
+
+- A clear and easy flow for users to get from the entry point of opening the app, to task completion of an order confirmation. 
+- Clearly labeled steps that are each represented by the appropriate shape.
+- Lines with arrows connecting all the steps of the user flow.
+
+Compare this exemplar to the user flow diagram you created in the activity. What did you do well? Where can you improve? Take this feedback with you as you continue to progress through the course.
+
+---
+
+
