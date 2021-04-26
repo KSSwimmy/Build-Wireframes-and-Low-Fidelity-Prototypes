@@ -317,3 +317,7 @@ Second, wireframes highlight the intended function of the product.
 - Second is images, photos, illustrations, and icons, which are represented by a circle and an X overlapping each circle. 
 
 - Third, calls to action are often represented by rectangles or circles. A good example of a call to action is a submit button on a form, or the circle to compose a new email in our example. 
+
+---
+
+Project time 
