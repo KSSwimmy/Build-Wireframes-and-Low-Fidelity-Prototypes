@@ -13,3 +13,20 @@ Importance of information architecture
 
 ---
 
+### Create paper wireframes
+
+##### Benefits of paper wireframes 
+- Fast 
+- Inexpensive 
+- Explore lots of ideas 
+- Narrow our focus 
+
+##### When drawing wireframes:
+
+It's important to list this information up front so, you remember to draw all of the elements in each of your wireframes. 
+
+We're drawing wireframes for the homepage of our dog walking app. So, the information that needs to be included on this page might include a 
+- navigation icon
+- a search bar
+- images
+- text descriptions
