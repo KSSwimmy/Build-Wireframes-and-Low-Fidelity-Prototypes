@@ -61,3 +61,25 @@ Now compare the exemplar above to your completed deliverable. Assess what you’
 
 Don't forget to keep track of your digital wireframes so you can include images of them in your portfolio!
 
+---
+
+### Use Gestalt Principles when creating wireframes
+
+Gestalt principles describe how humans group similar elements, recognize patterns, and simplify complex images when we perceive objects.
+
+Gestalt principles got their name from the word Gestalt, which is a German word that means shape or form.
+
+Here's the takeaway: When designing your wireframe, put elements that are related close together instead of far apart.
+
+Commonly used gestalt principles 
+- **Similarity** 
+    - This principle means that elements that look similar are perceived to have the same function.
+- **Proximity** 
+    - This principle states that elements that are close together appear to be more related than things that are spaced farther apart.
+- **Common region** 
+    - This principle states that elements located within the same area are perceived to be grouped together.
+
+
+
+
+
